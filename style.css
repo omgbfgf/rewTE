@@ -1,0 +1,40 @@
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: lightskyblue;
+}
+
+.header_div{
+    background-color: turquoise;
+    color: rgb(0, 0, 0);
+}
+
+
+.header_div p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(167, 63, 63);
+    letter-spacing: 5px;
+    font-size :15px;
+    font-style: italic;
+
+}
+
+
+.main_div button{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 35px;
+    width: 135px;
+    font-weight: bolder;
+    letter-spacing: 5px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    color: rgb(0, 0, 0);
+    background-color: aqua;
+    line-height: 5;
+    font-size: 20px;
+    width: 99%;
+    text-align: center;
+    text-shadow: 5px 5px 5px grey;
+}
